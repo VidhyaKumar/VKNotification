@@ -21,7 +21,6 @@ All you need to do is drop `VKNotification` files into your project, and add `#i
 ...
 
 [VKNotification createMessage:@"Invalid login credentials, please try again." targetView:self.view];
-
 ```
 
 ## Contact
