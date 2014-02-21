@@ -15,6 +15,15 @@ Simple notification banner for iOS applications providing a clean in-app alerts.
 
 All you need to do is drop `VKNotification` files into your project, and add `#import "VKNotification.h"` to the top of classes that will use it.
 
+```
+# import "VKNotification.h"
+
+...
+
+[VKNotification createMessage:@"Invalid login credentials, please try again." targetView:self.view];
+
+```
+
 ## Contact
 
 Vidhya Kumar
