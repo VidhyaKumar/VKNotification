@@ -1,4 +1,5 @@
-VKNotification
-==============
+# VKNotification
+---
 
-Simple notification banner for iOS applications.
+Simple notification banner for iOS applications providing a clean in-app alerts.
+
