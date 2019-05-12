@@ -2,7 +2,7 @@
 
 Simple notification banner for iOS applications providing a clean in-app alerts.
 
-![image](https://raw2.github.com/codestackr/VKNotification/master/preview.gif)
+![image](https://raw.githubusercontent.com/VidhyaKumar/VKNotification/master/preview.gif)
 
 ## Requirements
 
